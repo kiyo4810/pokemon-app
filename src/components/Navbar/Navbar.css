@@ -1,0 +1,12 @@
+nav {
+  background-color: #d69a3f;
+  color: white;
+  height: 65px;
+  font-weight: 600;
+  font-size: 25px;
+  /* text-align: center; */
+  /* 以下の３つの設定で上下も左右もcenterに */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
